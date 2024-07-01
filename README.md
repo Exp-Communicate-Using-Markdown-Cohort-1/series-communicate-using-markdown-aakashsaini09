@@ -6,9 +6,7 @@
 -->
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
-###### This is an `<h6>` header, which is the smallest
 
-# Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -88,7 +86,15 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
 ### :keyboard: Activity: Adding an image
-
+[Image of Yaktocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lb9Ng3B7RdGFVWMP7k8bzozis9XHj1b8Nw&s)
+```
+$ npm install
+To install node modules
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] not complted
 1. As you did before, edit the `index.md` file in this pull request.
 1. In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
 1. Use the **Preview** tab to check your Markdown formatting.
